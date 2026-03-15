@@ -2,4 +2,5 @@ body{
   background-color: #eee;
   font-family: verdana;
   cursor: url('curseur.png'), auto;
+  cursor: url('curseur.png'), pointer;
 }
