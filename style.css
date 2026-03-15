@@ -1,7 +1,5 @@
 body{
   background-color: #eee;
   font-family: verdana;
+  cursor: url('cursor.png'), auto;
 }
-
-cursor:
-  url("cursor_1.svg") 4 5,
